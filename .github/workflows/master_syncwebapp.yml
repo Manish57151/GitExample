@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'SyncWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B88D612852740A0A28928FCF85E8BE2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20E789BA89884A35999B1019F868BFA0 }}
           package: .
